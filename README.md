@@ -1,8 +1,9 @@
-# Auto-upload games to roblox automatically
-**If this is used for uploading condos I will come for you**
+# Auto-upload games to Roblox automatically
+## Fully external auto-uploader
+This is a project from 2021 it may not work
 
 # How to run it!
-1. Download python from the website (Add to path) & python from the microsoft store0
+1. Download python from the website (Add to path) & python from the Microsoft store0
 
 2. Next right click on AutoUploader.py and edit
  
@@ -17,4 +18,4 @@
 ![image](https://github.com/user-attachments/assets/90a64309-8e55-4dab-9c17-936df9425fbd)
 
 
-5. Your done!
+5. You're done!
